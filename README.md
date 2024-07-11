@@ -10,4 +10,4 @@
 - [ ] IA de analise de score de clientes
 > - [ ] Criado arquivo para analise da base de dados e ajustes na mesma
 > - [ ] Analise inicial realizada
-> - [ ] ...
+> - [ ] ..
